@@ -2,4 +2,8 @@ A long time ago, in a galaxy far, far away..
 
 There was a child, and he was destined to save the galaxy.
 
+<<<<<<< HEAD
 He did not know the force
+=======
+He knew the force
+>>>>>>> newestest
